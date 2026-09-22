@@ -1,8 +1,8 @@
- # Introduction to GitHub<br><br>
+ # Introduction to GitHub<br>
 
 This is my first GitHub repository created while learning Git and GitHub.<br>
 
-## What I Learned<br><br>
+## What I Learned<br>
 
 - Creating repositories<br>
 - Making commits<br>
@@ -10,7 +10,7 @@ This is my first GitHub repository created while learning Git and GitHub.<br>
 - Merging branches<br>
 - Understanding GitHub basics<br>
 
-## Technologies<br><br>
+## Technologies<br>
 
 - Git<br>
 - GitHub<br>
